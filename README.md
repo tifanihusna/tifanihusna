@@ -2,8 +2,9 @@ Hi 👋 My name is Tifani Husna Siregar
 =====================================
 
 I am a postdoctoral fellow at the King Fahd University of Petroleum & Minerals (KFUPM), Saudi Arabia.
+Before joining KFUPM, I was an assistant professor at Waseda University, Japan.
 
-* 🌍  I'm based in Khobar, Saudi Arabia
+* 🌍  I'm currently based in Khobar, Saudi Arabia
 
 
 ### Socials
